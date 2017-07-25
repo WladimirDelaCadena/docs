@@ -54,7 +54,7 @@ provide `dylink.r2py` as the first argument to `repy.py` (when you
 start your sandbox on the command line):
 
 ``` 
-python repy.y restrictionsfile dylink.r2py your_program_goes_here.r2py
+python repy.py restrictionsfile dylink.r2py your_program_goes_here.r2py
 ```
 
 or the `run`/`start` command (when using `seash`):
